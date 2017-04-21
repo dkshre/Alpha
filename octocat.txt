@@ -1,1 +1,4 @@
 good
+
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/attach-disk-portal?toc=%2fazure%2fvirtual-machines%2fwindows%2ftoc.json
